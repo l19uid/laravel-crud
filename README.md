@@ -1,6 +1,6 @@
 # Laravel Crud Project
 ## Installation
-1. installin 
+1. install
 2. cmd `composer install`
 3. edit .env file to match local database
 4. in cmd `php artisan migrate --seed`
